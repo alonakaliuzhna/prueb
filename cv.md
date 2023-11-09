@@ -31,6 +31,8 @@ _Dedicated Software Developer proficient in HTML, CSS, JavaScript, React, and No
 * Time management skills
 * Organizational skills
 
+## Code Example
+
 ```
 const planets = ["Earth", "Mars", "Venus", "Jupiter"];
 const planetsLengths = planets.map((planet) => planet.length);
@@ -52,14 +54,19 @@ EXADEL POLAND Sp. z o.o
 ## Education
 
 *** Full Stack Developer ***
+
 <sub> School GoIt Ukraine </sub> 
+
 <sub> 2021-2022</sub> 
 
 
 ## Languages 
 
 Ukrainian -  native
+
 Russian   -  native 
+
 Spanish   -  advanced
+
 English   -  intermediate
 
