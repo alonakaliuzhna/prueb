@@ -56,6 +56,7 @@ EXADEL POLAND Sp. z o.o
 ***Full Stack Developer***
 
 <sub> School GoIt Ukraine </sub> 
+
 <sub> 2021-2022</sub> 
 
 
